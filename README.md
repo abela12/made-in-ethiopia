@@ -37,7 +37,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="F"><strong>F</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [FarmUI](https://github.com/Kinfe123/farm-ui) | FarmUI is client first and animation rich ui component library built on top of radix and shadcn as well other primitive providers that we would like to cover. | [Kinfe Michael ](https://github.com/Kinfe123) |
 
 ## <h6 id="G"><strong>G</strong></h6>
 | Name | Description | Made By |
