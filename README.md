@@ -111,6 +111,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 |:---|:---|:---|
 | [Telegram Community Gallery](https://github.com/dagmawibabi/TelegramCommunityGallery) | is a platform where users can discover and submit their favorite Telegram channels and groups, creating a vibrant space for community exploration. Whether you're a seasoned Telegram user or just diving into the world of Telegram communities, this platform is designed with you in mind. 😊 |[Dagmawi Babi](https://github.com/dagmawibabi/) |
 | [Telebirr USSD](https://github.com/VP-Trading/telebirr-ussd) | This Laravel package is a featherweight package to integrate Telebirr USSD®.|[VP-Trading](https://github.com/VP-Trading/) |
+| [telebirrjs](https://github.com/vernu/telebirrjs) | hustle free telebirr integration package for node®.|[Israel Abebe](https://github.com/vernu/) |
 
 ## <h6 id="U"><strong>U</strong></h6>
 | Name | Description | Made By |
