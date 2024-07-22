@@ -12,6 +12,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 | [API Hub ](https://github.com/dagmawibabi/APIHub) | `API Hub` is an all-in-one API destination. It is a wrapper around major and popular `APIs` to have a uniform way of accessing all of them.| [Dagmawi Babi](https://github.com/dagmawibabi) |
 | [amharic news category classification](https://github.com/rasyosef/amharic-news-category-classification) | This github repo that contains three notebooks that use the amharic-news-category-classification dataset to finetune the following models for a text classification task. | [Yosef W. Alemneh](https://github.com/rasyosef/) |
 | [AbushakirJs](https://github.com/Nabute/AbushakirJs) | NPM package for Ethiopian Calendar. | [Daniel Nigusse](https://github.com/Nabute/) |
+| [Andegna Calender](https://github.com/andegna/calender) | If you ever want to convert Ethiopian Calender to any other calender system (like the Gregorian Calender) this is the right package for you. And by the way it also support Amharic date formatting and much much more.| [Andegna Systems ](https://github.com/andegna/) |
 
 ## <h6 id="B"><strong>B</strong></h6>
 | Name | Description | Made By |
