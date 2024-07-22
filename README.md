@@ -27,7 +27,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="D"><strong>D</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="E"><strong>E</strong></h6>
 | Name | Description | Made By |
@@ -48,17 +48,17 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="H"><strong>H</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="I"><strong>I</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="J"><strong>J</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="K"><strong>K</strong></h6>
 | Name | Description | Made By |
@@ -73,27 +73,27 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="M"><strong>M</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="N"><strong>N</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="O"><strong>O</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="P"><strong>P</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="Q"><strong>Q</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="R"><strong>R</strong></h6>
 | Name | Description | Made By |
@@ -115,27 +115,27 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="U"><strong>U</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="V"><strong>V</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="W"><strong>W</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="X"><strong>X</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="Y"><strong>Y</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This sport awaits you | [john doe](#) |
+| [project name](#) | This spot awaits you | [john doe](#) |
 
 ## <h6 id="Z"><strong>Z</strong></h6>
 | Name | Description | Made By |
