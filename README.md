@@ -93,7 +93,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="Q"><strong>Q</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This spot awaits you | [john doe](#) |
+| [Quantity Picker](https://github.com/AbdulhakimZ/quantity-picker) | React quantity picker | [AbdulhakimZ](https://github.com/AbdulhakimZ) |
 
 ## <h6 id="R"><strong>R</strong></h6>
 | Name | Description | Made By |
