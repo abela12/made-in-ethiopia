@@ -83,7 +83,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="O"><strong>O</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This spot awaits you | [john doe](#) |
+| [OpenType](https://estifanos12.github.io/OpenType/) | A minimalistic typing speed testing app | [Estifanos Gashawtena](https://github.com/Estifanos12) |
 
 ## <h6 id="P"><strong>P</strong></h6>
 | Name | Description | Made By |
