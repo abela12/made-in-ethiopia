@@ -105,6 +105,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 |:---|:---|:---|
 | [SQL Studio](https://github.com/frectonz/sql-studio) | Single binary, single command SQL database explorer. SQL studio supports SQLite, libSQL, PostgreSQL, MySQL and DuckDB. |[Fraol Lemecha](https://github.com/frectonz/) |
 | [S.M.A (Send Messages Anonymously)](https://github.com/RobiMez/sma) | S.M.A is a web application that allows users to send messages to each other anonymously. It is built using Svelte and TypeScript, with a Node.js backend and MongoDB database. |[Robi](https://github.com/RobiMez/) |
+| [ScholArxiv)](https://github.com/dagmawibabi/ScholArxiv) | ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.|[Dagmawi Babi](https://github.com/dagmawibabi/) |
 
 ## <h6 id="T"><strong>T</strong></h6>
 | Name | Description | Made By |
