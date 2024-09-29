@@ -18,6 +18,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 | Name | Description | Made By |
 |:---|:---|:---|
 | [Better Fetch](https://github.com/Bekacru/better-fetch) | Advanced fetch wrapper for typescript, supports zod schema validations, pre-defined routes, hooka, plugins and more. Works on the browser, node (version 18+), workers, deno and bun. | [Bereket Engida](https://github.com/Bekacru/) |
+| [Better Auth](https://github.com/better-auth/better-auth) | Better Auth is framework-agnostic authentication (and authorization) library for TypeScript. It provides a comprehensive set of features out of the box and includes a plugin ecosystem that simplifies adding advanced functionalities with minimal code in short amount of time.  | [Bereket Engida](https://github.com/Bekacru/) |
 
 ## <h6 id="C"><strong>C</strong></h6>
 | Name | Description | Made By |
