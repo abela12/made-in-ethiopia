@@ -79,7 +79,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="N"><strong>N</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This spot awaits you | [john doe](#) |
+| [NativeChat](https://github.com/dagmawibabi/NativeChat) | NativeChat is a powerful application designed to bring seamless, context-aware interactions to your mobile device. Using Gemini under the hood, it offers a wide range of features to assist with tasks like fetching system specs, analyzing call logs, summarizing SMS messages, and providing insights into your device’s status. NativeChat makes your chat experience better by providing real-time data and personalized responses. | [Dagmawi Babi](https://github.com/dagmawibabi) |
 
 ## <h6 id="O"><strong>O</strong></h6>
 | Name | Description | Made By |
