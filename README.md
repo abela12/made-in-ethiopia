@@ -40,6 +40,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 | Name | Description | Made By |
 |:---|:---|:---|
 | [FarmUI](https://github.com/Kinfe123/farm-ui) | FarmUI is client first and animation rich ui component library built on top of radix and shadcn as well other primitive providers that we would like to cover. | [Kinfe Michael ](https://github.com/Kinfe123) |
+| [Feather Queue](https://github.com/MusieTesfaye/feather-queue) | Feather Queue is a lightweight and scalable task queue system designed to handle background jobs efficiently, built with simplicity and performance in mind. | [Musie Tesfaye](https://github.com/MusieTesfaye) |
 
 ## <h6 id="G"><strong>G</strong></h6>
 | Name | Description | Made By |
