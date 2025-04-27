@@ -131,7 +131,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="W"><strong>W</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
-| [project name](#) | This spot awaits you | [john doe](#) |
+| [Weyalaw](https://github.com/mrnpro/Weyalaw) | A Flutter-based mobile application designed to help Ethiopian commuters easily locate and navigate traditional bus taxi routes.| [Natnael Fikadu](https://github.com/mrnpro) |
 
 ## <h6 id="X"><strong>X</strong></h6>
 | Name | Description | Made By |
