@@ -35,6 +35,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 |:---|:---|:---|
 | [Ethiopian Calendar ](https://github.com/yinebebt/ethiopiancalendar) | The Ethiopian calendar(ባሕረ-ሀሳብ) is used to get Fasting and Holiday's specific date with in a year based on `EOTC calendar`. It also designed to facilitate the conversion between Ethiopian dates (in the format `yy-mm-dd`) and Gregorian dates. Ethiopia follows its own calendar system, which consists of 13 months, each with 30 days.| [Yinebeb Tariku](https://github.com/yinebebt) |
 | [Ethiopian Logos](https://github.com/Chapa-Et/ethiopianlogos) | This is an open-source project for downloading free, high-quality vector logos of Ethiopian companies.| [Chapa ET](https://github.com/Chapa-Et/) |
+| [Ethiopian Datepicker Shadcn](https://github.com/henaorth16/ethiopian-datepicker-shadcn) | A modern, lightweight, and customizable Ethiopian calendar date picker built with React, ShadCN/UI, Tailwind CSS, and kenat.| [Henok](https://github.com/henaorth16/) |
 
 ## <h6 id="F"><strong>F</strong></h6>
 | Name | Description | Made By |
@@ -66,6 +67,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 | Name | Description | Made By |
 |:---|:---|:---|
 | [kpass](#) | Kpass empowers you to manage your passwords securely, eliminating reliance on third-party services. It's built with the following technologies: Backend: `Go` Frontend `(Chrome Extension)`: `Typescript` and `Plasmo` | [kumneger Wondimu](https://github.com/Kumneger0) |
+| [Kenat](https://github.com/MelakuDemeke/kenat) |Kenat (Amharic: ቀናት) is an all-in-one Ethiopian calendar library for JavaScript. It handles date conversion, formatting (including Geez numerals), time conversion, holidays, and calendar grids — everything you need to build Ethiopian calendar-powered apps. | [MelakuDemeke](https://github.com/MelakuDemeke/) |
 
 ## <h6 id="L"><strong>L</strong></h6>
 | Name | Description | Made By |
