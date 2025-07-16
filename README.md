@@ -133,6 +133,7 @@ A collection of awesome projects created by Ethiopians that are accessible to ev
 ## <h6 id="W"><strong>W</strong></h6>
 | Name | Description | Made By |
 |:---|:---|:---|
+| [Weshet Filler](https://github.com/addispupi/weshet-filler) | Lightweight Chrome extension that helps developers, testers, and users quickly fill out web forms with relevant, Ethiopia-specific information.| [Addisu Hailemariam](https://github.com/addispupi) |
 | [Weyalaw](https://github.com/mrnpro/Weyalaw) | A Flutter-based mobile application designed to help Ethiopian commuters easily locate and navigate traditional bus taxi routes.| [Natnael Fikadu](https://github.com/mrnpro) |
 
 ## <h6 id="X"><strong>X</strong></h6>
